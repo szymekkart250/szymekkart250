@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szymekkart250
 - 👀 I’m interested in racing, geopolitics
-- 🌱 I’m currently learning machine learning and neural nets in python
+- 🌱 doing multiple machine and deep learning projects in python and SQL
 - 📫 How to reach me szymon.kozak.250@gmail.com
 
 <!---
