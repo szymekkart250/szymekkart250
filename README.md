@@ -1,3 +1,5 @@
+
+<!---
 - 👋 Hi, I’m @szymekkart250
 - 👀 interested in racing, geopolitics
 - 🌱 data science student with interest in deep learning
